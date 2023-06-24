@@ -5,6 +5,7 @@ The Crashday Track Picture Helper Script is a user-friendly tool that simplifies
 ## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 - [Licenses](#license)
 
@@ -25,6 +26,16 @@ The Crashday Track Picture Helper Script is a user-friendly tool that simplifies
 2. Run the included cdtrkpic_mica.bat file
 3. Follow the on-screen instructions
 4. After successfully completing the merge, copy/move your track file into ...\Crashday\user\
+
+## Screenshots
+
+| The initial view | After a successful merge |
+| --- | --- |
+| ![](screenshots/cdtrkhelperscript_01.png) | ![](screenshots/cdtrkhelperscript_05.png) |
+
+| Opting to change a setting | Inproper TRK file | Inproper TGA file |
+| --- | --- | --- |
+| ![](screenshots/cdtrkhelperscript_02.png) | ![](screenshots/cdtrkhelperscript_03.png) | ![](screenshots/cdtrkhelperscript_04.png) |
 
 ## Acknowledgements
 
