@@ -7,7 +7,7 @@ The Crashday Track Picture Helper Script is a user-friendly tool that simplifies
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
-- [Licenses](#license)
+<!--- - [Licenses](#license) -->
 
 
 ## Features
