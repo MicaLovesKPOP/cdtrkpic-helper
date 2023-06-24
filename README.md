@@ -26,10 +26,10 @@ The Crashday Track Picture Helper Script is tool that aims to simplify the proce
 
 ## Usage
 
-1. Exact both folders into ...\Crashday\Tools (default location C:\Program Files\Steam\steamapps\common\Crashday\tools\)
-2. Run the included cdtrkpic_mica.bat file
+1. Exact both folders into `.../Crashday/Tools` (default location C:/Program Files/Steam/steamapps/common/Crashday/tools/)
+2. Run the included `cdtrkpic_mica.bat` file
 3. Follow the on-screen instructions
-4. After successfully completing the merge, copy/move your track file into ...\Crashday\user\
+4. After successfully completing the merge, copy/move your track file into `.../Crashday/user/`
 
 ## Screenshots
 
