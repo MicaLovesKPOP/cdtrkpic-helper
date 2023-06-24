@@ -1,6 +1,4 @@
-# Crashday Track Picture Helper Script
-
-[![Download](https://img.shields.io/badge/Download-Latest_Release-brightgreen)](https://github.com/MicaLovesKPOP/cdtrkpic-helper/releases/latest)
+# Crashday Track Picture Helper Script [![Download](https://img.shields.io/badge/Download-Latest_Release-brightgreen)](https://github.com/MicaLovesKPOP/cdtrkpic-helper/releases/latest)
 
 The Crashday Track Picture Helper Script is tool that aims to simplify the process of integrating custom images into Crashday tracks as in-game track previews, something that orginally was only possible via the command line. This helper script provides tips on how players should prepare their image file, it also presents an easy-to-use menu for users to input their track and image files. In case any issues arise, it also provides the user with informative notices and error messages. As the cherry on top, the script also uses an included Python Interpreter in order to perform file checks, ensuring that all input files are of a compatible format.
 
