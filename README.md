@@ -29,11 +29,11 @@ The Crashday Track Picture Helper Script is a user-friendly tool that simplifies
 
 ## Screenshots
 
-| The initial view | A successful merge |
+| THE INITIAL VIEW | A SUCCESSFUL MERGE |
 | --- | --- |
 | ![](screenshots/cdtrkhelperscript_01.png) | ![](screenshots/cdtrkhelperscript_05.png) |
 
-| Changing a setting | Inproper TRK file | Inproper TGA file |
+| CHANGING A SETTING | INPROPER TRK FILE | INPROPER TGA FILE |
 | --- | --- | --- |
 | ![](screenshots/cdtrkhelperscript_02.png) | ![](screenshots/cdtrkhelperscript_03.png) | ![](screenshots/cdtrkhelperscript_04.png) |
 
