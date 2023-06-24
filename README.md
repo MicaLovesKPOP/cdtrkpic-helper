@@ -40,8 +40,8 @@ The Crashday Track Picture Helper Script is a user-friendly tool that simplifies
 ## Acknowledgements
 
 This project makes use of some code and text generated with the help of [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1) and [ChatGPT](https://chat.openai.com/).
-
+<!---
 ## License
 
 This project is licensed under the GNU GPLv3 License. See the [LICENSE](https://github.com/MicaLovesKPOP/WinterBot/blob/main/LICENSE) file for details.
-
+-->
