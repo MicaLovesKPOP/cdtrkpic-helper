@@ -28,7 +28,7 @@ The Crashday Track Picture Helper Script is a user-friendly tool that simplifies
 
 ## Acknowledgements
 
-This project uses code and text generated with the help of [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1) and [ChatGPT](https://chat.openai.com/).
+This project makes use of some code and text generated with the help of [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1) and [ChatGPT](https://chat.openai.com/).
 
 ## License
 
