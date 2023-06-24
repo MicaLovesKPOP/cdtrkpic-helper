@@ -20,8 +20,9 @@ The Crashday Track Picture Helper Script is tool that aims to simplify the proce
 - Automatically adds .trk/.tga extensions to user inputs as necessary
 - Automatically backs up tracks before merging screenshots into them
 - Included Python Interpreter and Python script, which:
-  - Checks if the input track file is in Crashday TRK format, informing the user of any issues
-  - Checks if the input image file is in a compatible TGA format, informing the user of any issues
+  - Checks if the input track file is in Crashday TRK format
+  - Checks if the input image file is in a compatible TGA format
+- Might any issues arise, the user is informed of the issue and what actions to take
 
 ## Usage
 
